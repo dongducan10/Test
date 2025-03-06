@@ -11,7 +11,7 @@ import org.openqa.selenium.interactions.Actions;
 import org.testng.annotations.Test;
 
 public class TestWebDriver {
-
+con cặc
 	@Test(priority = 2)
 	public void TestInsert2() throws InterruptedException {
 	    System.setProperty("webdriver.chrome.driver", "D:\\chromeDriver\\chromedriver-win64\\chromedriver.exe");
